@@ -1,4 +1,3 @@
-goodmorning
 hello
 goodbye
 
